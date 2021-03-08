@@ -1,9 +1,9 @@
+import Header from "./Components/Header";
+
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h2>Employee Directory</h2>
-      </header>
+    <div className="container">
+      <Header className="App-header" />
     </div>
   );
 }
