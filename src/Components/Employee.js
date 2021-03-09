@@ -1,7 +1,7 @@
 const Employee = ({ employee }) => {
     return (
         <div className='employee'>
-            <img src={employee.picture.large} />
+            <img src={employee.picture.large} alt=''/>
             <h2>{employee.name.first} {employee.name.last}</h2>
             
                 <p>Phone: {employee.phone}</p>

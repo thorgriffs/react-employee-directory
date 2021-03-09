@@ -57,7 +57,6 @@ const App = () => {
     <div className='container'>
       <Header className="App-header" />
       <button className='btn' type="button" onClick={sortEEsByName}>Sort by name</button>
-      {/* <label for="searchText">Search: </label> */}
       <input className='search' id="searchText" type="text" onKeyUp={searchTextOnKeyUp}/>
       <button className='btn-search' type="button" onClick={filterEEsByName}>Search By Name</button>
       <Employees employees={employees}/>
