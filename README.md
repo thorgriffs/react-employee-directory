@@ -12,9 +12,9 @@ This is a coding bootcamp homework assignment to create an Employee Directory us
 
 
 ## Usage
-The [Employee Dirctory](https://thorgriffs.github.io/react-employee-directory/) application runs in the browser.    
+The [Employee Directory](https://thorgriffs.github.io/react-employee-directory/) application runs in the browser.    
 
-Users can click the "Sort" button to sort by employee first name, or users can search to filter by employee name.  
+Users can click the "Sort" button to sort by employee first name, or users can enter text in the search field to filter by employee name.  
 
 ![Budget-Tracker Demo](./public/assets/employee-directory.png)
 
@@ -28,7 +28,7 @@ Have questions?  Contact me on [GitHub](https://github.com/thorgriffs) or email 
 ## Acknowledgements
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-I referenced the [React JS Crash Course](https://youtu.be/w7ejDZ8SWv8) tutorial from [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) for help with structure and layout.
+I referenced the [React JS Crash Course](https://youtu.be/w7ejDZ8SWv8) tutorial from [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) for help with structure and style.
 
 ## License
 
